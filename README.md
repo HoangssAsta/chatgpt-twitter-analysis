@@ -23,7 +23,7 @@ This analysis was conducted as part of MIS373 - Advanced AI For Business course.
 
 - Python
 - Jupyter Notebook
-- Libraries: [List key libraries used, e.g., pandas, nltk, sklearn, etc.]
+- Libraries: pandas, nltk, sklearn, etc.
 
 ## How to Use
 
@@ -34,13 +34,13 @@ This analysis was conducted as part of MIS373 - Advanced AI For Business course.
 
 ## Results
 
-[Brief summary of key findings or link to full report]
+The key findings have been summarized directly in the code file
 
 ## Author
 
-[Your Name]
+Andrew Nguyen
 
 ## Acknowledgements
 
 - Dataset provided by Gaurav Topre on Kaggle
-- Project developed for MIS373 at [Your University Name]
+- Project developed for MIS373 at Deakin University
